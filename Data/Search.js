@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],u:['../Content/Doc Bible Content/A_Getting Started/About the Documentation Bible.htm'],s:['0','symbol'],p:[['0',2],['e',36],['num',24],['them',11]]});

@@ -1,0 +1,1 @@
+define({'How':{l:[{u:'/Content/Doc Bible Content/B_Team Basics/About Product Documentation.htm#kanchor1',t:'How to Write Product Documentation'}]}});
